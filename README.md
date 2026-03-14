@@ -11,9 +11,11 @@ Computer Engineering Student at [Adam Mickiewicz University](https://amu.edu.pl/
 ### 💪 What I've built
 
 <div>
-      <img src="https://personal-bucket-antonkravchenko.s3.eu-north-1.amazonaws.com/Group+32+(1).png"
+      <a href="https://github.com/kravchenko-anton?tab=repositories">
+	<img src="https://personal-bucket-antonkravchenko.s3.eu-north-1.amazonaws.com/Group+32+(1).png"
            alt="Projects"
            style="width:100%; height:auto; max-width:800px;">
+</a>
 </div>
 
 ### 💻 Tech Stack
