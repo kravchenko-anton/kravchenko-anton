@@ -10,18 +10,10 @@ Computer Engineering Student at [Adam Mickiewicz University](https://amu.edu.pl/
 
 ### 💪 What I've built
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:start">
-		<a href="https://github.com/kravchenko-anton/booknext" 
-       style="flex:1 1 420px; max-width:500px;">
-      <img src="https://personal-bucket-antonkravchenko.s3.eu-north-1.amazonaws.com/booknext.png"
-           alt="Booknext"
-           style="width:100%; height:auto;"></a>
-<a href="https://github.com/kravchenko-anton/authentication" 
-       style="flex:1 1 420px; max-width:500px;">
-      <img src="https://personal-bucket-antonkravchenko.s3.eu-north-1.amazonaws.com/auth.png"
-           alt="Authentication"
-           style="width:100%; height:auto;">
-    </a>
+<div>
+      <img src="https://personal-bucket-antonkravchenko.s3.eu-north-1.amazonaws.com/Group+32+(1).png"
+           alt="Projects"
+           style="width:100%; height:auto; max-width:800px;">
 </div>
 
 ### 💻 Tech Stack
