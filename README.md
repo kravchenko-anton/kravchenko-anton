@@ -8,16 +8,6 @@ Computer Engineering Student at [Adam Mickiewicz University](https://amu.edu.pl/
 
 --- 
 
-### 💪 What I've built
-
-<div>
-      <a href="https://github.com/kravchenko-anton?tab=repositories">
-	<img src="https://personal-bucket-antonkravchenko.s3.eu-north-1.amazonaws.com/Group+32+(1).png"
-           alt="Projects"
-           style="width:100%; height:auto; max-width:800px;">
-</a>
-</div>
-
 ### 💻 Tech Stack
 ###### I’m familiar with many other tools, but to avoid cluttering things up, I’ve listed the most popular ones here
 <div style="display:flex; flex-wrap:wrap; gap:8px">
